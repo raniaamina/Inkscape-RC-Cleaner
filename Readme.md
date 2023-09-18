@@ -10,10 +10,10 @@ RC Cleaner is simple Inkscape extension to clean the list of PNG files contained
 - xmlstarlet
 
 
-## Pemasangan & Penggunaan
+## Installation & Usage
 
 Simply copy and paste the *.inx and *.sh files into the Inkscape extension directory. Furthermore, this extension can be accessed via the Extensions > Misc menu (Extension > Misc).
 
 
-## Lisensi
+## Licence
 RC Cleaner is licensed under the GNU General Public License v3.0.
